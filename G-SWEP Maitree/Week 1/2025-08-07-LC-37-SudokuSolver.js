@@ -1,4 +1,4 @@
-// 2025-08-07-LC-37-Sudoku_Solver.js
+// 2025-08-07-LC-37-SudokuSolver.js
 
 /**
  * Problem: 

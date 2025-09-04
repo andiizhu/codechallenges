@@ -1,4 +1,4 @@
-// 2025-08-07-LC-128-Pascal's_Triangle.js 
+// 2025-08-07-LC-128-Pascal's_Triangle.js
 
 
 // Given an integer numRows, return the first numRows of Pascal's triangle.
